@@ -27,5 +27,4 @@
 * ของที่ชอบ : ของเล่น
 * สัตว์ที่ชอบ : แมว <sub>*__จาก วิว__*</sub>
 # link ส่งงาน
-[link](siam-yam/hw-submission.md)
 [`hw-submission.md`](/team-intro/hw-submission.md)
