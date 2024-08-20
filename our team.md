@@ -1,5 +1,5 @@
 # Ben10
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![team]()
 
 
 ## ชื่อ : สุภัสสรา พูลศรี
@@ -26,4 +26,5 @@
 * วันเกิด : 14 ตุลาคม 2548
 * ของที่ชอบ : ของเล่น
 * สัตว์ที่ชอบ : แมว <sub>*__จาก วิว__*</sub>
-
+# link ส่งงาน
+[Contribution guidelines for this project](docs/hw-submission.md)
