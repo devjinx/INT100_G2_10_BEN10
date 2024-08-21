@@ -32,13 +32,13 @@
 <img src ="image/Supassara_Poolsiri.jpg" width ="350" >
 </p>
 
-## ชื่อ : สุภัสสรา พูลศรี
-* ชื่อเล่น :tulip:: วิว
-* รหัสนักศึกษา :mortar_board:: 67130500132
-* วันเกิด  :birthday:: 07/01/2549
-* ของที่ชอบ :heart:: ช็อคโกแลต 
-* สัตว์ที่ชอบ :snake: :  งู 
-* instagram : [_spsr.ps](https://www.instagram.com/_spsr.ps/)  
+## ชื่อ : สุภัสสรา พูลศรี :tulip:
+* ชื่อเล่น : วิว :tulip:
+* รหัสนักศึกษา : 67130500132 :mortar_board:
+* วันเกิด  : 07/01/2549 :birthday:
+* ของที่ชอบ : ช็อคโกแลต :heart:
+* สัตว์ที่ชอบ  :  งู :snake:
+* instagram : [_spsr.ps](https://www.instagram.com/_spsr.ps/)  :tulip:
 
 <hr>
 <p align ="center"> 
