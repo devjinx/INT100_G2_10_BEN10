@@ -28,7 +28,7 @@
 <hr>
 
 <p align ="center"> 
-<img src ="image/Chattiya_Songprakobg.jpg" width ="350" >
+<img src ="image/Chattiya_Songprakob.jpg" width ="350" >
 </p>
 
 ## ชื่อ : ฉัตรติญา ทรงประกอบ 🤪
@@ -38,3 +38,4 @@
 * ของที่ชอบ : ชาเขียว 🤪
 * สัตว์ที่ชอบ :  แมว 🤪
 * inatagram : [nifilenacs](https://www.instagram.com/nifilenacs?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 🤪  <sub>*__จาก เจีย__*</sub>
+<hr>
