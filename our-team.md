@@ -8,7 +8,7 @@
 * วันเกิด : 12 กันยายน 2548 :scream:
 * ของที่ชอบ : มาม่าเกาหลีชีส :scream:
 * สัตว์ที่ชอบ : หมา :scream:
-* Instgram: <a href="https://www.instagram.com/mewlsuwan" target="_parent">mewlsuwan<a/>  :scream:
-
+* Instgram: [mewlsuwan](https://www.instagram.com/mewlsuwan/) :scream:
+  
 # link ส่งงาน
 [`hw-submission.md`](/team-intro/hw-submission.md)
