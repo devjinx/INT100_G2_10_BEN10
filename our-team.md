@@ -1,5 +1,4 @@
-<h1 align= "center"> Ben10 </h1>
-
+<hr>
 <p align ="center"> 
 <img src ="LINE_ALBUM_น่าร๊ากกกอะ_240821_1.jpg" width ="350" >
 </p>
