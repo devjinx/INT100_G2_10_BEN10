@@ -6,4 +6,4 @@
 * ของที่ชอบ :heart:: ช็อคโกแลต 
 * สัตว์ที่ชอบ :snake: :  งู   <sub>*__จาก มิว__*</sub>
 * instagram : [_spsr.ps](https://www.instagram.com/_spsr.ps/)
-  [วิว]()
+  ![วิว](LINE_ALBUM_น่าร๊ากกกอะ_240821_1.jpg)
