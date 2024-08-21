@@ -27,7 +27,7 @@
 * Instgram: [mewlsuwan](https://www.instagram.com/mewlsuwan/) :scream:
 <hr>
 <p align ="center"> 
-<img src ="LINE_ALBUM_น่าร๊ากกกอะ_240821_1.jpg" width ="350" >
+<img src ="image/Supassara_Poolsiri.jpg" width ="350" >
 </p>
 
 ## ชื่อ : สุภัสสรา พูลศรี
