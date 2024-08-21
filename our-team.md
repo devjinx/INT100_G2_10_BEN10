@@ -1,6 +1,8 @@
-# Ben10
-![team]()
+<h1 align= "center"> Ben10 </h1>
 
+<p align ="center"> 
+<img src ="images/LINE_ALBUM_น่าร๊ากกกอะ_240821_2.jpg" width ="350" >
+</p>
 
 ## ชื่อ : ณัฐวัชต์ สุวรรณศุภวงษ์
 * ชื่อเล่น : มิว :scream:
@@ -10,5 +12,3 @@
 * สัตว์ที่ชอบ : หมา :scream:
 * Instgram: [mewlsuwan](https://www.instagram.com/mewlsuwan/) :scream:
   
-# link ส่งงาน
-[`hw-submission.md`](/team-intro/hw-submission.md)
