@@ -6,7 +6,7 @@
 </p>
 
 
-## ชื่อ : เปมิกา ป่าไม้ทอง
+## ชื่อ : เปมิกา ป่าไม้ทอง :woman:
 * ชื่อเล่น :woman:: เจีย
 * รหัสนักศึกษา :mortar_board:: 67130500099
 * วันเกิด :tada:: 14 ตุลาคม 2548
@@ -19,7 +19,7 @@
 <img src ="image/Natthawat_Suwan.jpg" width ="350" >
 </p>
 
-## ชื่อ : ณัฐวัชต์ สุวรรณศุภวงษ์
+## ชื่อ : ณัฐวัชต์ สุวรรณศุภวงษ์ :scream:
 * ชื่อเล่น : มิว :scream:
 * รหัสนักศึกษา : 67130500130 :scream:
 * วันเกิด : 12/09/2548  :scream:
@@ -38,7 +38,7 @@
 * วันเกิด  :birthday:: 07/01/2549
 * ของที่ชอบ :heart:: ช็อคโกแลต 
 * สัตว์ที่ชอบ :snake: :  งู 
-* instagram : [_spsr.ps](https://www.instagram.com/_spsr.ps/)  <sub>*__จาก มิว__*</sub>
+* instagram : [_spsr.ps](https://www.instagram.com/_spsr.ps/)  
 
 <hr>
 <p align ="center"> 
