@@ -25,9 +25,10 @@
 * ของที่ชอบ : มาม่าเกาหลีชีส :scream:
 * สัตว์ที่ชอบ : หมา :scream:
 * Instgram: [mewlsuwan](https://www.instagram.com/mewlsuwan/) :scream:
+<hr>
 
 <p align ="center"> 
-<img src ="image/Chattiya_Songprakobg" width ="350" >
+<img src ="image/Chattiya_Songprakobg.jpg" width ="350" >
 </p>
 
 ## ชื่อ : ฉัตรติญา ทรงประกอบ 🤪
