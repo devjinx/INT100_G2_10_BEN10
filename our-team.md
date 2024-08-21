@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 <h1 align= "center"> Ben10 </h1>
+=======
+
+ <h1 align= "center"> Ben10 </h1>
+>>>>>>> main
 
 <p align ="center"> 
 <img src ="image/Pemika_Pamaithong.jpg" width ="350" >
@@ -6,12 +11,21 @@
 
 
 ## ชื่อ : เปมิกา ป่าไม้ทอง :woman:
+<<<<<<< HEAD
 * ชื่อเล่น : เจีย :woman:
 * รหัสนักศึกษา : 67130500099 :mortar_board:
 * วันเกิด : 14 ตุลาคม 2548 :tada:
 * ของที่ชอบ : ของเล่น :hearts:
 * สัตว์ที่ชอบ : แมว :cat:
 * instagram :[ja.jia._](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fja.jia._%3Figsh%3DMTl1OHBncHp3eTNuZw%253D%253D&h=AT1a03j2SDIMrRyjoZDndprtAO0eaH3z2eXWzWlkn6GqQKIaauR1n6L84GR-zfAXcntKeKU5O0Yj03CWVI4kqprdGAgKUuN9tO65vdVTNBVXrgeX06XJh64pklC71vaYFmDAsw) :woman:
+=======
+* ชื่อเล่น :woman:: เจีย
+* รหัสนักศึกษา :mortar_board:: 67130500099
+* วันเกิด :tada:: 14 ตุลาคม 2548
+* ของที่ชอบ :hearts:: ของเล่น
+* สัตว์ที่ชอบ :cat:: แมว 
+* instagram :[ja.jia._](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fja.jia._%3Figsh%3DMTl1OHBncHp3eTNuZw%253D%253D&h=AT1a03j2SDIMrRyjoZDndprtAO0eaH3z2eXWzWlkn6GqQKIaauR1n6L84GR-zfAXcntKeKU5O0Yj03CWVI4kqprdGAgKUuN9tO65vdVTNBVXrgeX06XJh64pklC71vaYFmDAsw)
+>>>>>>> main
 
 <hr>
 <p align ="center"> 
@@ -31,6 +45,10 @@
 <img src ="image/Supassara_Poolsiri.jpg" width ="350" >
 </p>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
 ## ชื่อ : สุภัสสรา พูลศรี :tulip:
 * ชื่อเล่น : วิว :tulip:
 * รหัสนักศึกษา : 67130500132 :mortar_board:
@@ -38,6 +56,18 @@
 * ของที่ชอบ : ช็อคโกแลต :heart:
 * สัตว์ที่ชอบ  :  งู :snake:
 * instagram : [_spsr.ps](https://www.instagram.com/_spsr.ps/)  :tulip:
+<<<<<<< HEAD
+=======
+=======
+## ชื่อ : สุภัสสรา พูลศรี
+* ชื่อเล่น :tulip:: วิว
+* รหัสนักศึกษา :mortar_board:: 67130500132
+* วันเกิด  :birthday:: 7 มกราคม 2549
+* ของที่ชอบ :heart:: ช็อคโกแลต 
+* สัตว์ที่ชอบ :snake: :  งู 
+* instagram : [_spsr.ps](https://www.instagram.com/_spsr.ps/)  <sub>*__จาก มิว__*</sub>
+>>>>>>> main
+>>>>>>> main
 
 <hr>
 <p align ="center"> 
@@ -46,12 +76,24 @@
 ## ชื่อ : ฉัตรติญา ทรงประกอบ 🤪
 * ชื่อเล่น : เฟียส 🤪
 * รหัสนักศึกษา : 67130500070 🤪
+<<<<<<< HEAD
 * วันเกิด : 08/08/2548 🤪
+=======
+<<<<<<< HEAD
+* วันเกิด : 08/08/2548 🤪
+=======
+* วันเกิด : 08/08/2005 🤪
+>>>>>>> main
+>>>>>>> main
 * ของที่ชอบ : ชาเขียว 🤪
 * สัตว์ที่ชอบ :  แมว 🤪
 * inatagram : [nifilenacs](https://www.instagram.com/nifilenacs?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 🤪 
 
 <hr>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
 <p align ="center"> 
 <img src ="image/Apinan_Lam.jpg" width ="350" >
 
@@ -64,6 +106,7 @@
 * inatagram : [apinann_pee](https://www.instagram.com/apinann_pee?igsh=MW56ZTJiYm9teGs0OQ%3D%3D&utm_source=qr) 🙈 
 
 <hr>
+<<<<<<< HEAD
 <p align ="center"> 
 <img src ="image/Thanakorn_char.jpeg" width ="350" >
 
@@ -76,3 +119,7 @@
 * inatagram : [jinn_.near](https://www.instagram.com/jinn_.near) 🫠
 
 <hr>
+=======
+=======
+>>>>>>> main
+>>>>>>> main
