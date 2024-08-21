@@ -1,7 +1,7 @@
 <h1 align= "center"> Ben10 </h1>
 
 <p align ="center"> 
-<img src ="images/LINE_ALBUM_น่าร๊ากกกอะ_240821_2.jpg" width ="350" >
+<img src ="images/Natthawat_Suwan.jpg" width ="350" >
 </p>
 
 ## ชื่อ : ณัฐวัชต์ สุวรรณศุภวงษ์
