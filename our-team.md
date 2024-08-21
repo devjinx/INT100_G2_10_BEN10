@@ -1,7 +1,7 @@
  <h1 align= "center"> Ben10 </h1>
 
 <p align ="center"> 
-<img src ="images/LINE_ALBUM_น่าร๊ากกกอะ_240821_2.jpg" width ="350" >
+<img src ="image/Pemika_Pamaithong.jpg" width ="350" >
 </p>
 
 
