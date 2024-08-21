@@ -1,3 +1,4 @@
+
  <h1 align= "center"> Ben10 </h1>
 
 <p align ="center"> 
@@ -38,3 +39,5 @@
 * ของที่ชอบ :heart:: ช็อคโกแลต 
 * สัตว์ที่ชอบ :snake: :  งู 
 * instagram : [_spsr.ps](https://www.instagram.com/_spsr.ps/)  <sub>*__จาก มิว__*</sub>
+
+<hr>
