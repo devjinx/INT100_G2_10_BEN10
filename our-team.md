@@ -25,7 +25,10 @@
 * ของที่ชอบ : มาม่าเกาหลีชีส :scream:
 * สัตว์ที่ชอบ : หมา :scream:
 * Instgram: [mewlsuwan](https://www.instagram.com/mewlsuwan/) :scream:
-![รูปเฟียส](image/Chattiya_Songprakob.jpg.jpg)
+
+<p align ="center"> 
+<img src ="image/Chattiya_Songprakobg" width ="350" >
+</p>
 
 ## ชื่อ : ฉัตรติญา ทรงประกอบ 🤪
 * ชื่อเล่น : เฟียส 🤪
