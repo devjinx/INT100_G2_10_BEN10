@@ -48,8 +48,6 @@
 > อยากมีงานทำ และ ได้ทำงานจิตอาสา มีความสุขในการทำงาน แต่ส่วนใหญ่มีความรู้สึกเหนื่อย
 
 # ข้อมูลส่วนตัว
-
-# ข้อมูลส่วนตัว
 > <img src =https://github.com/devjinx/INT100_G2_10_BEN10/blob/main/design%20thinking/image/Tee_img.jpeg width = "250"> <br>
 > ชื่อ : ธี  
 > อายุ : 50 ปี  
