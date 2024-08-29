@@ -1,5 +1,5 @@
 # ข้อมูลส่วนตัว
-> <img src ="image/Bo_img.jpg" width = "250"> <br>
+> <img src =https://github.com/devjinx/INT100_G2_10_BEN10/blob/main/design%20thinking/image/Bo_img.jpeg width = "250"> <br>
 > ชื่อ : โบ้ <br>
 > อายุ : 27 ปี <br> 
 > อาชีพ : อาสาบรรณารักษ์ <br>
@@ -24,7 +24,7 @@
 > Feel : รู้สึกมีความสุขและพอใจในตัวเอง สามารถสร้างรายได้เลี้ยงดูตัวเองได้ <br>
 
 # ข้อมูลส่วนตัว
-> <img src ="image/Pha_img.jpg" width = "250"> <br>
+> <img src =https://github.com/devjinx/INT100_G2_10_BEN10/blob/main/design%20thinking/image/Pha_img.jpeg width = "250"> <br>
 > ชื่อ : ภา  
 > อายุ : 50 ปี  
 > อาชีพ : หัวหน้าแม่บ้าน  
@@ -42,7 +42,7 @@
 > Feel : รู้สึกมีความสุขในการทำงานเป็นส่วนใหญ่แต่ก็มีบ้างที่รู้สึกเหนื่อย
 
 # ข้อมูลส่วนตัว
-> <img src ="image/Tee_img.jpg" width = "250"> <br>
+> <img src =https://github.com/devjinx/INT100_G2_10_BEN10/blob/main/design%20thinking/image/Tee_img.jpeg width = "250"> <br>
 > ชื่อ : ธี  
 > อายุ : 50 ปี  
 > อาชีพ : -  
