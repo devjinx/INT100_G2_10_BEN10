@@ -72,6 +72,7 @@
 
 <p align="center">
   <img src="image/Thanakorn_char.jpeg" width="350">
+  ![Alt text](image/Thanakorn_char.jpeg)
 </p>
 
 ## ชื่อ : ธนกร เจริญเลิศกมล 🫠
