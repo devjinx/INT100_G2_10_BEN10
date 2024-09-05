@@ -73,7 +73,6 @@
 <p align="center">
   <img src="image/Thanakorn_char.jpeg" width="350">
 </p>
-![Alt text](image/Thanakorn_char.jpeg)
 
 ## ชื่อ : ธนกร เจริญเลิศกมล 🫠
 * ชื่อเล่น : จิน 🫠
