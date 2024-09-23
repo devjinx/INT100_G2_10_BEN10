@@ -1,3 +1,7 @@
+<p align ="center"> 
+<img src ="image/Natthawat_Suwan.jpg" width ="350" >
+</p>
+
 ## ชื่อ : ณัฐวัชต์ สุวรรณศุภวงษ์
 * ชื่อเล่น : มิว :scream:
 * รหัสนักศึกษา : 67130500130 :scream:
