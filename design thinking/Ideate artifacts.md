@@ -2,6 +2,9 @@
 
 <hr>
 
+<img src ="image/Ideate artifacts.png" width ="350" >
+
+
 ## Rational
 - สร้าง Website ที่เปิดเป็นสาธารณะของห้องสมุดทั้ง Desktop ver. และ Mobile ver.
 
