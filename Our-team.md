@@ -3,7 +3,7 @@
 <hr>
 
 <p align ="center"> 
-<img src ="image/Thanakorn_char.jpeg" width ="350" >
+<img src ="Image/Thanakorn_char.jpeg" width ="350" >
 
 ## ชื่อ-นามสกุล : ธนกร เจริญเลิศกมล
 นายธนกร เจริญเลิศกมล ชื่อเล่นว่า จิน อายุ 18ปี เกิดวันที่ 4 มีนาคม พ.ศ. 2549 เป็นคนชอบคอมพิวเตอร์และชอบการเขียน code 
