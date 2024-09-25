@@ -1,5 +1,5 @@
 <p align ="center"> 
-<img src ="image/Natthawat_Suwan.jpg" width ="350" >
+<img src ="Image_Our_Team/Natthawat_Suwan.jpg" width ="350" >
 </p>
 
 ## ชื่อ : ณัฐวัชต์ สุวรรณศุภวงษ์
