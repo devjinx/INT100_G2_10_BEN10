@@ -23,7 +23,7 @@
 <hr>
 
 <p align ="center"> 
-<img src ="image/Apinan_Lam.jpeg" width ="350" >
+<img src ="Image/Apinan_Lam.jpeg" width ="350" >
 
 ## ชื่อ-นามสกุล : อภินันท์ ลำธาร 
 นายอภินันท์ ลำธาร  ชื่อเล่นว่า พี อายุ 19ปี เกิดวันที่ 6 มีนาคม 2548 
