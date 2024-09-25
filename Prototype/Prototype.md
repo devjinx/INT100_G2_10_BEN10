@@ -9,4 +9,4 @@
 - การติดต่อพนักงาน
 
 ---
-![Alt text](/image_prototype/21.jpg)
+![Alt text](Prototype/image_prototype)
