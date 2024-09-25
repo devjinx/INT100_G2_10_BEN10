@@ -2,7 +2,7 @@
 
 <hr>
 
-<img src ="images/Ideate artifacts.png" width ="1000" >
+<img aliign = "center" src ="images/Ideate artifacts.png" >
 
 
 ## Rational
