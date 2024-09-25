@@ -9,11 +9,19 @@
 - การติดต่อพนักงาน
 
 ---
+
 <img align ="center" src ="image_prototype/21.png">
+
 ---
+
 <img align ="center" src ="image_prototype/22.png">
+
 ---
+
 <img align ="center" src ="image_prototype/23.png">
+
 ---
+
 <img align ="center" src ="image_prototype/24.png">
+
 ---
