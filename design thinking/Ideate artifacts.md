@@ -2,7 +2,7 @@
 
 <hr>
 
-<img src ="images/Ideate artifacts.png" width ="350" >
+<img src ="images/Ideate artifacts.png" width ="1000" >
 
 
 ## Rational
