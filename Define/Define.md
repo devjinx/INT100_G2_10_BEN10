@@ -1,6 +1,6 @@
 ## point of view
 ![image](https://github.com/devjinx/INT100_G2_10_BEN10/blob/PPemika/Define/image-define/14.png?raw=true)
-![image](https://raw.githubusercontent.com/devjinx/INT100_G2_10_BEN10/4d18a129d25e548fe4163604b21b4dcca5518dae/Define/image-test/15.png)
+![image](https://github.com/devjinx/INT100_G2_10_BEN10/blob/PPemika/Define/image-define/15.png?raw=true)
 ##
 ### 1.we met
 * พี่โบ้
