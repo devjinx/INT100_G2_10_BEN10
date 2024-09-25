@@ -3,7 +3,7 @@
 <hr>
 
 <p align ="center"> 
-<img src ="Image/Thanakorn_char.jpeg" width ="350" >
+<img src ="Image_Our_Team/Thanakorn_char.jpeg" width ="350" >
 
 ## ชื่อ-นามสกุล : ธนกร เจริญเลิศกมล
 นายธนกร เจริญเลิศกมล ชื่อเล่นว่า จิน อายุ 18ปี เกิดวันที่ 4 มีนาคม พ.ศ. 2549 เป็นคนชอบคอมพิวเตอร์และชอบการเขียน code 
@@ -23,7 +23,7 @@
 <hr>
 
 <p align ="center"> 
-<img src ="Image/Apinan_Lam.jpg" width ="350" >
+<img src ="Image_Our_Team/Apinan_Lam.jpg" width ="350" >
 
 ## ชื่อ-นามสกุล : อภินันท์ ลำธาร 
 นายอภินันท์ ลำธาร  ชื่อเล่นว่า พี อายุ 19ปี เกิดวันที่ 6 มีนาคม 2548 
