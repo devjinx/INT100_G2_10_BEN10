@@ -56,3 +56,19 @@
 
 <hr>
 
+<p align ="center"> 
+<img src ="https://github.com/devjinx/INT100_G2_10_BEN10/blob/PPemika/Image_Our_Team/Chattiya_Songprakob.jpg?raw=true" width ="350" >
+
+## ชื่อ : ฉัตรติญา ทรงประกอบ  
+
+เฟียซเป็นคนน่ารัก ใจดีและยิ้มง่าย เฟียซขยันมาก มีความรับผิดชอบเพราะทำงานพาร์ทไทม์ไปด้วยและเรียนไปด้วย ถึงตอนทำงานกลุ่มก็ตั้งใจทำงาน ใช้การสื่อสารได้ดี คุยแล้วสบายใจ ให้เกียรติผู้อื่น
+อิโมจิของเฟียซ : :zany_face:<br>
+* ชื่อเล่น : เฟียส 
+* รหัสนักศึกษา : 67130500070 
+* วันเกิด : 08/08/2005 
+* ของที่ชอบ : ชาเขียว 
+* สัตว์ที่ชอบ :  แมว 
+* inatagram : [nifilenacs](https://www.instagram.com/nifilenacs?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
+<hr>
+
